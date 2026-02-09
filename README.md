@@ -10,7 +10,7 @@ A React project built as a hands-on activity during my Scrimba React course.
 - JSX & basic styling
 
 ## Credit
-Design & idea inspired by Scrimba React Course.
+Design & idea from Scrimba React Course.
 
 ## Screenshot
 
