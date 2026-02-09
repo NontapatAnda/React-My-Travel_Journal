@@ -1,6 +1,16 @@
-# React + Vite
+# Practice Project to revise my skill
 
-- Practice Project to revise my skill
+# My Travel Journal 🌍
+
+A React project built as a hands-on activity during my Scrimba React course.
+
+## What I practiced
+- React components
+- Props & data mapping
+- JSX & basic styling
+
+## Credit
+Design & idea inspired by Scrimba React Course.
 
 ## Screenshot
 
